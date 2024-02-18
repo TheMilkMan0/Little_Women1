@@ -9,6 +9,7 @@ library(ggplot2)
 Little_women <- data.frame(
   Name=c("Med","Jo","Beth","Amy"),
   Times.Mentioned=c(683,1355,459,645) 
+  Times.Mentioned=c(683,1355,459,645)
 )
 
 
